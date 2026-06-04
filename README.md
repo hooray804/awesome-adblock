@@ -35,7 +35,6 @@ _Hardware, software, and local DNS servers that block ads and tracking domains f
 - [Blocky](https://github.com/0xERR0R/blocky) - A fast and lightweight DNS proxy and ad blocker for local networks, written in Go.
 - [Pi-hole](https://github.com/pi-hole/pi-hole) - A DNS sinkhole that protects local networks by blocking advertising and telemetry domains without clients side installations.
 - [RethinkDNS](https://github.com/celzero/rethink-app) - An Android app combining a local DNS resolver, firewall.
-- [Wirehole](https://github.com/IAmStoxe/wirehole) - A containerized setup combining WireGuard, Pi-hole, and Unbound to route encrypted traffic through a local DNS sinkhole.
 
 ## Filter Lists
 
