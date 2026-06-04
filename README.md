@@ -43,6 +43,7 @@ _Sets of rules and domain blocklists used by ad blockers and DNS servers to iden
 - [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters) - A comprehensive collection of filter lists designed to block ads, tracking, cookies, and website annoyances.
 - [EasyList](https://github.com/easylist/easylist) - The primary set of filter rules includes EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List for most modern ad blockers.
 - [HaGeZi's DNS Blocklists](https://github.com/hagezi/dns-blocklists) - A set of DNS level blocklists tailored to prevent tracking and malvertising.
+- [StevenBlack Hosts](https://github.com/StevenBlack/hosts) - A consolidated set of hosts files from curated sources with optional categories like social media and gambling.
 
 ## Useful Websites
 
