@@ -32,12 +32,12 @@ Before opening a pull request, please ensure:
 To maintain a reliable resource for users, projects listed here should meet the following criteria:
 
 1. **Open Source**: The project must be open source. Paid or commercial software is acceptable as long as its source code, core engine, or filter lists are publicly accessible under an open source license.
-2. **Maturity**: The project should have at least 3 months of active history since the first release or commit to avoid listing short-lived projects.
+2. **Maturity**: The project should have at least 3 months of active history since the first release or commit.
 3. **Active Maintenance**: The repository should show recent activity or be actively maintained. For mature, stable projects that do not require frequent updates, there should be no critical, unaddressed bug reports older than 6 months.
 4. **Documentation**: The project must have clear documentation, explaining how to install and use it.
-5. **Community Validation**: The project repository must have at least 20 GitHub stars to demonstrate baseline community interest and utility.
+5. **Community Validation**: The project repository must have at least 20 GitHub stars.
 6. **Safety & Integrity**: The project must be completely free of malware, spyware, adware, unauthorized tracking scripts, or deceptive practices.
-7. **External Resources**: External informational websites and web tools must provide clear, noncommercial utility to the community, and serve as established resources for ad-blocking or privacy testing.
+7. **External Resources**: External informational websites and web tools must provide clear, noncommercial utility to the community, and serve as established resources for ad blocking or privacy testing.
 
 ---
 
@@ -57,7 +57,7 @@ Please format your entry as follows:
 ```
 
 * **Good Example:**
-  `- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - Network-wide software for blocking ads and tracking.`
+  `- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - Network wide software for blocking ads and tracking.`
 
 * **Bad Example (Promotional language, missing period):**
   `- [My Adblocker](https://github.com/user/mybestblocker) - The absolute best and fastest ad blocker in the world`
