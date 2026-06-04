@@ -17,10 +17,10 @@ Please take a quick look at the [contribution guidelines](https://github.com/hoo
 
 ## Ad Blockers
 
-_Client-side applications and browser extensions that intercept network requests and modify page elements to hide advertisements._
+_Client side applications and browser extensions that intercept network requests and modify page elements to hide advertisements._
 
-- [AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension) - A open-source browser extension that blocks ads, tracking, and annoyances.
-- [AdGuard for iOS](https://github.com/AdguardTeam/AdguardForiOS) - An open source client providing Safari content blocking and system wide DNS protection on iOS.
+- [AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension) - A browser extension that blocks ads, tracking, and annoyances.
+- [AdGuard for iOS](https://github.com/AdguardTeam/AdguardForiOS) - App providing Safari content blocking and system wide DNS protection on iOS.
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - A browser extension that crowdsources and automatically skips sponsor segments, intros, and reminders on YouTube.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient content blocker extension for Chromium and Firefox.
 - [wBlock](https://github.com/0xCUB3/wBlock) - A Safari content blocker and userscript manager for macOS, iOS, and iPadOS.
